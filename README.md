@@ -1,1 +1,1 @@
-# fivem-react-boilerplate-tailwind
+# Fivem + React + Tailwind = ❤️
