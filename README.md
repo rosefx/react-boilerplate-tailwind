@@ -1,4 +1,4 @@
-# Fivem + React + Tailwind = ❤️
+# FiveM + React + Tailwind = ❤️
 
 ## Getting Started
 
